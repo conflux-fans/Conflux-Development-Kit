@@ -53,6 +53,9 @@
 
 - reference：Conflux docking Q&A: https://shimo.im/docs/KlkKVPllv9T2bZqd
 
+- How to configure the rpc port and data storage path of your own node: https://forum.conflux.fun/t/how-to-configure-the-rpc-port-and-data-storage-path-of-your-own-node/5927
+
+
 ## Conflux Development Document	
 - Website：https://developer.conflux-chain.org/
 
