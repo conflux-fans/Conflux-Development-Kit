@@ -2,7 +2,7 @@
 
 
 ## Recommendation
-- Conflux Official Website：https://confluxnetwork.org/zh/
+- Conflux Official Website：https://confluxnetwork.org/
 
 - Conflux DeFi Official Website：	https://defi.confluxnetwork.org/
 
@@ -49,11 +49,10 @@
 - json rpc:	https://developer.conflux-chain.org/docs/conflux-doc/docs/json_rpc
 - Conflux RPC address list (for development testing only, no guarantee of availability)：	https://github.com/conflux-fans/conflux-rpc-endpoints
 
-- How to configure the RPC port and data storage path of your own node:	https://forum.conflux.fun/t/topic/5147
+- How to configure the rpc port and data storage path of your own node: https://forum.conflux.fun/t/how-to-configure-the-rpc-port-and-data-storage-path-of-your-own-node/5927
 
 - reference：Conflux docking Q&A: https://shimo.im/docs/KlkKVPllv9T2bZqd
 
-- How to configure the rpc port and data storage path of your own node: https://forum.conflux.fun/t/how-to-configure-the-rpc-port-and-data-storage-path-of-your-own-node/5927
 
 
 ## Conflux Development Document	
