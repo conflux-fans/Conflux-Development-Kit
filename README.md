@@ -1,5 +1,6 @@
 # Conflux-Development-Kit
 
+Chinese version：[https://juejin.cn/post/6940147768535023646#heading-5](https://juejin.cn/post/6940147768535023646#heading-5)
 
 ## Recommendation
 - Conflux Official Website：https://confluxnetwork.org/
