@@ -99,7 +99,7 @@ Chinese version：[https://juejin.cn/post/6940147768535023646#heading-5](https:/
 - Conflux-truffle：	https://github.com/Conflux-Chain/conflux-truffle
 > Conflux Truffle user's guidance：https://juejin.cn/post/6862239117934067726
  
-- Conflux-remix: http://remix.conflux.work/
+- Conflux-remix (Developed by the Conflux community): http://remix.conflux.work/
 > Use Remix to create a smart contract on Conflux: https://github.com/conflux-dao-toc/conflux-remix-plugin/blob/main/conflux-guide.md
 
 
