@@ -53,6 +53,7 @@ Chinese version：[https://juejin.cn/post/6940147768535023646#heading-5](https:/
 - How to configure the rpc port and data storage path of your own node: https://forum.conflux.fun/t/how-to-configure-the-rpc-port-and-data-storage-path-of-your-own-node/5927
 
 - reference：Conflux docking Q&A: https://shimo.im/docs/KlkKVPllv9T2bZqd
+- The first Infura-like API access service on the Conflux network is in the limited time public test: https://mp.weixin.qq.com/s/S_3BllKl_1ahTDA2v1gEAQ
 
 
 
@@ -97,6 +98,10 @@ Chinese version：[https://juejin.cn/post/6940147768535023646#heading-5](https:/
 
 - Conflux-truffle：	https://github.com/Conflux-Chain/conflux-truffle
 > Conflux Truffle user's guidance：https://juejin.cn/post/6862239117934067726
+ 
+- Conflux-remix: http://remix.conflux.work/
+> Use Remix to create a smart contract on Conflux: https://github.com/conflux-dao-toc/conflux-remix-plugin/blob/main/conflux-guide.md
+
 
 
 
